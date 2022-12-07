@@ -16,4 +16,4 @@ function isPrime(num) {
 }
 
 let n = 13;
-console.log(n,"-",isPrime(n)); 
+console.log(isPrime(n)); 
