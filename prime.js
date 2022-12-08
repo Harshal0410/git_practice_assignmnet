@@ -1,6 +1,5 @@
 function isPrime(num) {
   let counter = 0;
-  
   if (num == 1) {
     return false
   }
@@ -17,3 +16,4 @@ function isPrime(num) {
 
 let n = 13;
 console.log(n,"-",isPrime(n));
+
